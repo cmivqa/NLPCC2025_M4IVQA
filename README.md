@@ -115,14 +115,14 @@ where the |M<sup>'</sup>| is the number of the evaluation metrics. Value<sub>i</
 If you are interested in our challenge, please fill out the [application form](http://tcci.ccf.org.cn/conference/2023/dldoc/NLPCC2023.SharedTask5.RegistrationForm.doc) and email libinincn@hnu.edu.cn (Please email us with your organization's email and note that you participate in the challenge). The dataset will be sent to you by then. 
 
 ## <a id="important_dates"> Important Dates</a>
-Announcement of shared tasks and call for participation:	2023/3/15
+Announcement of shared tasks and call for participation:	2024/3/15
 
-- [ ] Registration open:	2023/3/15
-- [ ] Release of detailed task guidelines & training data:	2023/4/3
-- [ ] Release of Test A data:	2023/4/20
-- [ ] Registration deadline:	2023/6/20
-- [ ] Release of test B data:	2023/6/28
-- [ ] Evaluation results release and call for system reports and conference paper:	2023/7/5
+- [ ] Registration open:	2024/3/15
+- [ ] Release of detailed task guidelines & training data:	2024/4/3
+- [ ] Release of Test A data:	2024/4/20
+- [ ] Registration deadline:	2024/6/20
+- [ ] Release of test B data:	2024/6/28
+- [ ] Evaluation results release and call for system reports and conference paper:	2024/7/5
 
 ## Reference
 [1]  *Li, Bin*, *et al.* “Towards visual-prompt temporal answering grounding in medical instructional video.” *arXiv preprint arXiv:2203.06667 (2022).*
