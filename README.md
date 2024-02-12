@@ -127,7 +127,7 @@ Announcement of shared tasks and call for participation:	2023/3/15
 ## Reference
 [1]  *Li, Bin*, *et al.* “Towards visual-prompt temporal answering grounding in medical instructional video.” *arXiv preprint arXiv:2203.06667 (2022).*
 
-[2]  *Weng, Yixuan, and Bin Li.* “Visual Answer Localization with Cross-modal Mutual Knowledge Transfer.” arXiv preprint arXiv:2210.14823. (*Accepted in ICASSP 2023*).
+[2]  *Weng, Yixuan, and Bin Li.* “Visual Answer Localization with Cross-Modal Mutual Knowledge Transfer” [C]//ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2023: 1-5.
 
 [3]  *Deepak Gupta, Kush Attal, and Dina Demner-Fushman.* “A Dataset for Medical Instructional Video Classification and Question Answering.” *arXiv preprint arXiv:2201.12888, 2022.*
 
@@ -135,4 +135,4 @@ Announcement of shared tasks and call for participation:	2023/3/15
 
 [5]  *Zhang, Hao, et al.* “Natural language video localization: A revisit in span-based question answering framework.” *IEEE transactions on pattern analysis and machine intelligence 44.8 (2021): 4252-4266.*
 
-[6]  *Li, Bin, et al.* "Learning to Locate Visual Answer in Video Corpus Using Question." arXiv preprint arXiv:2210.05423. (*Accepted in ICASSP 2023*).
+[6]  *Li, Bin, et al.* “Learning To Locate Visual Answer In Video Corpus Using Question” [C]//ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2023: 1-5.
