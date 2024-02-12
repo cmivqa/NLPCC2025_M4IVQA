@@ -86,7 +86,7 @@ where A and B represent different spans.
 Following the pioneering work [6], we adopt the video retrieval metric like “R@n”. Specifically, we adopt the n=1, 10, and 100 to denote the recall performance of the video retrieval. The Mean Reciprocal Rank (MRR) score to evaluate the Chinese medical instructional video corpus retrieval track, which can be calculated as follows.
 
 $$
-M R R=\frac{1}{|V|} \sum_{i=1}^{|V|} \frac{1}{\operatorname{Rank}_i} 
+M R R=\frac{1}{|V|} \sum_{i=1}^{|V|} \frac{1}{{Rank}_i} 
 $$
 
 where the |*V*| is the number of the video corpus. For each testing sample *V*<sub>i</sub>, the Rank<sub>i</sub> is the position of the target ground-truth video in the predicted list.
