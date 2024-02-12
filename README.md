@@ -112,7 +112,7 @@ $$
 where the |M<sup>'</sup>| is the number of the evaluation metrics. Value<sub>i</sub> is the value of the i-th metric (i.e., R@1|mIoU, R@10|mIoU, R@100|mIoU), |M<sup>'</sup>|=3.
 
 ## Participation
-If you are interested in our challenge, please fill out the [application form](http://tcci.ccf.org.cn/conference/2023/dldoc/NLPCC2023.SharedTask5.RegistrationForm.doc) and email libinincn@hnu.edu.cn (Please email us with your organization's email and note that you participate in the challenge). The dataset will be sent to you by then. 
+If you are interested in our challenge, please fill out the [application form]([http://tcci.ccf.org.cn/conference/2023/dldoc/NLPCC2023.SharedTask5.RegistrationForm.doc](https://github.com/Lireanstar/ACMMM2024_MMIVQA/blob/main/ACMMM%202024%20MMIVQA%20Grand%20Challenge%20Agreement.docx) and email libinincn@hnu.edu.cn (Please email us with your organization's email and note that you participate in the challenge). The dataset will be sent to you by then. 
 
 ## <a id="important_dates"> Important Dates</a>
 Announcement of shared tasks and call for participation:	2024/3/15
