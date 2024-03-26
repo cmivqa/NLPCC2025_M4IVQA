@@ -1,4 +1,4 @@
-# Grand Challenge in ACMMM 2024: Multilingual Medical Instructional Video Question Answering
+# Shared Task in NLPCC 2024: Multilingual Medical Instructional Video Question Answering
 The medical instructional video question answering aims at performing the temporal answer grounding task given a medical-related question in a single video or the video corpus. Those videos are collected from high-quality bilingual medical [Youtube](https://www.youtube.com/) channels and annotated by medical experts.
 
 ## Table of Contents
@@ -115,14 +115,14 @@ where the |M<sup>'</sup>| is the number of the evaluation metrics. Value<sub>i</
 If you are interested in our challenge, please fill out the [application form](https://github.com/Lireanstar/ACMMM2024_MMIVQA/blob/main/ACMMM%202024%20MMIVQA%20Grand%20Challenge%20Agreement.docx) and email libinincn@hnu.edu.cn (Please email us with your organization's email and note that you participate in the challenge). The dataset will be sent to you by then. 
 
 ## <a id="important_dates"> Important Dates</a>
-Announcement of shared tasks and call for participation:	2024/3/15
+Announcement of shared tasks and call for participation:	2024/3/25
 
-- [ ] Registration open:	2024/3/15
-- [ ] Release of detailed task guidelines & training data:	2024/4/3
-- [ ] Release of Test A data:	2024/4/20
+- [ ] Registration open:	2024/3/25
+- [ ] Release of detailed task guidelines & training data:	2024/4/15
+- [ ] Release of test data:	2024/6/11
 - [ ] Registration deadline:	2024/6/20
-- [ ] Release of test B data:	2024/6/28
-- [ ] Evaluation results release and call for system reports and conference paper:	2024/7/5
+- [ ] Participants’ results submission deadline:	2024/6/20
+- [ ] Evaluation results release and call for system reports and conference paper:	2024/6/30
 
 ## Reference
 [1]  *Li, Bin*, *et al.* “Towards visual-prompt temporal answering grounding in medical instructional video.” *arXiv preprint arXiv:2203.06667 (2022).*
