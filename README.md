@@ -106,7 +106,7 @@ We kept the Intersection over Union (IoU) metric similar to the Track 1 and the 
 **Note:** The main ranking of this track is based on the Average score. The Average score is calculated by averaging the R@1|mIoU, R@10|mIoU, R@100|mIoU scores, which is shown as follows.
 
 $$
-\text { Average }=\frac{1}{|M'|} \sum_{i=1}^{|M'|} \frac{1}{\text { Value}_i}
+\text { Average }=\frac{1}{|M'|} \sum_{i=1}^{|M'|} {\text { Value}_i}
 $$
 
 where the |M<sup>'</sup>| is the number of the evaluation metrics. Value<sub>i</sub> is the value of the i-th metric (i.e., R@1|mIoU, R@10|mIoU, R@100|mIoU), |M<sup>'</sup>|=3.
