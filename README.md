@@ -1,12 +1,15 @@
-# Shared Task in NLPCC 2024: Multilingual Medical Instructional Video Question Answering
-The medical instructional video question answering aims at performing the temporal answer grounding task given a medical-related question in a single video or the video corpus. Those videos are collected from high-quality bilingual medical [Youtube](https://www.youtube.com/) channels and annotated by medical experts.
+# Shared Task in NLPCC 2025: Multi-modal, Multilingual, and Multi-hop Medical Instructional Video Question Answering
+Designing models that can comprehend multi-modal (text, speech, and image/video) instructional video in the medical domain, process multilingual data, and locate multi-hop questions in the video is an emerging challenge. Following the successful hosts of the 1-st (NLPCC 2023 Foshan) and the 2-rd (NLPCC 2024 Hangzhou) CMIVQA challenges, this year, a new task has been introduced to further advance research in multi-modal, multilingual, and multi-hop medical (M4) question answering systems, with a specific focus on medical instructional videos. This task focuses on evaluating models that can integrate information from medical instructional videos, understand multiple languages, and answer complex, multi-hop questions that require reasoning over various modalities. Participants in M4IVQA are expected to develop algorithms capable of processing both video and text data, understanding multilingual queries, and providing relevant answers to multi-hop medical questions. Models will be evaluated on the relevance of their answers, as well as their ability to handle complex multi-modal and multilingual inputs.
+
+The task consists of multiple stages, including training, testing, and evaluation, which contains three tracks: multi-modal, multilingual, and multi-hop Temporal Answer Grounding in Singe Video (M4TAGSV), multi-modal, multilingual, and multi-hop Video Corpus Retrieval (M4VCR) and multi-modal, multilingual, and multi-hop Temporal Answer Grounding in Video Corpus (M4TAGVC).
+
 
 ## Table of Contents
 - [Background](#background)
 - [Task Overview](#task_overview)
-  - [Track 1. Multilingual Temporal Answer Grounding in Singe Video (mTAGSV)](#track1)
-  - [Track 2. Multilingual Video Corpus Retrieval (mVCR)](#track2)
-  - [Track 3. Multilingual Temporal Answer Grounding in Video Corpus (mTAGVC)](#track3)
+  - [Track 1. M4 Temporal Answer Grounding in Singe Video (mTAGSV)](#track1)
+  - [Track 2. M4 Video Corpus Retrieval (mVCR)](#track2)
+  - [Track 3. M4 Temporal Answer Grounding in Video Corpus (mTAGVC)](#track3)
 - [Dataset](#dataset)
 - [Evaluation](#evaluation)
 - [Participation](#participation)
@@ -115,17 +118,17 @@ where the |M<sup>'</sup>| is the number of the evaluation metrics. Value<sub>i</
 If you are interested in our challenge, please fill out the [application form](https://github.com/Lireanstar/NLPCC2024_MMIVQA/blob/main/NLPCC2024.SharedTask7.RegistrationForm.doc) and email libinincn@hnu.edu.cn (Please email us with your organization's email and note that you participate in the challenge). The dataset will be sent to you by then. 
 
 ## <a id="important_dates"> Important Dates</a>
-Announcement of shared tasks and call for participation:	2024/3/25
+Announcement of shared tasks and call for participation:	2025/2/17
 
-- [ ] Registration open:	2024/3/25
-- [ ] Release of detailed task guidelines & training data:	2024/4/15
-- [ ] Release of test data:	2024/6/11
-- [ ] Registration deadline:	2024/6/20
-- [ ] Participants’ results submission deadline:	2024/6/20
-- [ ] Evaluation results release and call for system reports and conference paper:	2024/6/30
+- [ ] Registration open:	2025/2/17
+- [ ] Release of detailed task guidelines & training data:	2025/2/28
+- [ ] Registration deadline:	2025/3/25
+- [ ] Release of test data:	2025/4/11
+- [ ] Participants’ results submission deadline:	2025/4/20
+- [ ] Evaluation results release and call for system reports and conference paper:	2025/4/30
 
 ## Reference
-[1]  *Li, Bin*, *et al.* “Towards visual-prompt temporal answering grounding in medical instructional video.” *arXiv preprint arXiv:2203.06667 (2022).*
+[1]  Shutao Li, *Bin Li*, et al. “Towards visual-prompt temporal answer grounding in instructional video.” *IEEE Transactions on Pattern Analysis and Machine Intelligence (2024)*.
 
 [2]  *Weng, Yixuan, and Bin Li.* “Visual Answer Localization with Cross-Modal Mutual Knowledge Transfer” [C]//ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2023: 1-5.
 
