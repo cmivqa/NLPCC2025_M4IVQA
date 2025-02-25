@@ -115,7 +115,7 @@ $$
 where the |M<sup>'</sup>| is the number of the evaluation metrics. Value<sub>i</sub> is the value of the i-th metric (i.e., R@1|mIoU, R@10|mIoU, R@100|mIoU), |M<sup>'</sup>|=3.
 
 ## Participation
-If you are interested in our challenge, please fill out the [application form](https://github.com/Lireanstar/NLPCC2024_MMIVQA/blob/main/NLPCC2024.SharedTask7.RegistrationForm.doc) and email libinincn@hnu.edu.cn (Please email us with your organization's email and note that you participate in the challenge). The dataset will be sent to you by then. 
+If you are interested in our challenge, please fill out the [application form](https://github.com/Lireanstar/NLPCC2024_MMIVQA/blob/main/NLPCC2024.SharedTask7.RegistrationForm.doc) and email b.li2@siat.ac.cn (Please email us with your organization's email and note that you participate in the challenge). The dataset will be sent to you by then. 
 
 ## <a id="important_dates"> Important Dates</a>
 Announcement of shared tasks and call for participation:	2025/2/17
